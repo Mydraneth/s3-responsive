@@ -1,101 +1,101 @@
 {
   "stats": {
-    "expected": 1,
-    "unexpected": 17,
+    "expected": 18,
+    "unexpected": 0,
     "skipped": 0,
     "flaky": 0,
-    "duration": 10374
+    "duration": 8280
   },
   "tests": [
     {
-      "title": "Viewport meta etiketi doğru ayarlanmış mı?",
-      "status": "passed",
-      "duration": 616
-    },
-    {
       "title": "Ana başlık font boyutu doküman font boyutuna endekslenmiş mi?",
-      "status": "failed",
-      "duration": 637
+      "status": "passed",
+      "duration": 673
     },
     {
       "title": ".hero öğesinin üstündeki boşluk mobile uygun ayarlanmış mı?",
-      "status": "failed",
-      "duration": 549
-    },
-    {
-      "title": ".hero öğesinin köşe yuvarlaklığı mobile uygun ayarlanmış mı?",
-      "status": "failed",
-      "duration": 685
-    },
-    {
-      "title": ".hero öğesinin flex yönünün dik eksenine göre hizası mobile uygun ayarlanmış mı?",
-      "status": "failed",
-      "duration": 607
-    },
-    {
-      "title": "Header öğesinin padding değerleri mobile uygun ayarlanmış mı?",
-      "status": "failed",
-      "duration": 848
-    },
-    {
-      "title": "Nav linkleri yazı hizası mobil tasarıma uygun mu?",
-      "status": "failed",
-      "duration": 799
-    },
-    {
-      "title": ".wrapper-centered genişliği mobile göre ayarlanmış mı?",
-      "status": "failed",
-      "duration": 745
-    },
-    {
-      "title": "Header öğesinin flex yönüne göre hizası mobile uygun ayarlanmış mı?",
-      "status": "failed",
-      "duration": 712
-    },
-    {
-      "title": "Doküman yazı boyutu mobile göre ayarlanmış mı?",
-      "status": "failed",
-      "duration": 279
+      "status": "passed",
+      "duration": 778
     },
     {
       "title": "Menü font boyutu doküman font boyutuna endekslenmiş mi?",
-      "status": "failed",
-      "duration": 345
+      "status": "passed",
+      "duration": 141
     },
     {
-      "title": ".hero öğesinin flex yönüne göre hizası mobile uygun ayarlanmış mı?",
-      "status": "failed",
-      "duration": 537
-    },
-    {
-      "title": ".hero öğesinin iç boşluğu mobile uygun ayarlanmış mı?",
-      "status": "failed",
-      "duration": 529
-    },
-    {
-      "title": "Nav linklerinin genişlikleri mobile uygun ayarlanmış mı?",
-      "status": "failed",
-      "duration": 454
-    },
-    {
-      "title": ".hero öğesinin yüksekliği mobile uygun ayarlanmış mı?",
-      "status": "failed",
+      "title": "Viewport meta etiketi doğru ayarlanmış mı?",
+      "status": "passed",
       "duration": 521
     },
     {
-      "title": "Header öğeler arası gap mobile uygun ayarlanmış mı?",
-      "status": "failed",
-      "duration": 514
+      "title": ".hero öğesinin köşe yuvarlaklığı mobile uygun ayarlanmış mı?",
+      "status": "passed",
+      "duration": 691
+    },
+    {
+      "title": "Header öğesinin padding değerleri mobile uygun ayarlanmış mı?",
+      "status": "passed",
+      "duration": 659
+    },
+    {
+      "title": "Header öğesinin flex yönüne göre hizası mobile uygun ayarlanmış mı?",
+      "status": "passed",
+      "duration": 551
+    },
+    {
+      "title": ".hero öğesinin flex yönünün dik eksenine göre hizası mobile uygun ayarlanmış mı?",
+      "status": "passed",
+      "duration": 613
+    },
+    {
+      "title": "Nav linkleri yazı hizası mobil tasarıma uygun mu?",
+      "status": "passed",
+      "duration": 770
+    },
+    {
+      "title": ".wrapper-centered genişliği mobile göre ayarlanmış mı?",
+      "status": "passed",
+      "duration": 882
+    },
+    {
+      "title": ".hero öğesinin iç boşluğu mobile uygun ayarlanmış mı?",
+      "status": "passed",
+      "duration": 233
+    },
+    {
+      "title": ".hero öğesinin flex yönüne göre hizası mobile uygun ayarlanmış mı?",
+      "status": "passed",
+      "duration": 225
+    },
+    {
+      "title": ".hero öğesinin yüksekliği mobile uygun ayarlanmış mı?",
+      "status": "passed",
+      "duration": 193
+    },
+    {
+      "title": "Doküman yazı boyutu mobile göre ayarlanmış mı?",
+      "status": "passed",
+      "duration": 275
     },
     {
       "title": "Header öğesinin flex yönünün dik eksenine göre hizası mobile uygun ayarlanmış mı?",
-      "status": "failed",
-      "duration": 559
+      "status": "passed",
+      "duration": 275
     },
     {
       "title": "Header öğesinin flex yönü mobile uygun ayarlanmış mı?",
-      "status": "failed",
-      "duration": 439
+      "status": "passed",
+      "duration": 276
+    },
+    {
+      "title": "Header öğeler arası gap mobile uygun ayarlanmış mı?",
+      "status": "passed",
+      "duration": 255
+    },
+    {
+      "title": "Nav linklerinin genişlikleri mobile uygun ayarlanmış mı?",
+      "status": "passed",
+      "duration": 270
     }
   ]
 }

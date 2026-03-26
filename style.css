@@ -59,7 +59,7 @@ nav {
   display: flex;
   gap: 15px;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 0.75rem;
 }
 
 nav a {
@@ -87,7 +87,7 @@ nav a:hover {
 
 .hero h1 {
   margin: 0;
-  font-size: 40px;
+  font-size: 2rem;
   color: #70d000;
 }
 
@@ -97,3 +97,51 @@ nav a:hover {
 }
 
 /* hero alanı bitti */
+
+@media (max-width: 480px) {
+  html {
+    font-size: 16px;
+  }
+	header {
+		width: 100vw;
+		display: flex;
+		flex-direction: column;
+		align-items: stretch;
+		justify-content: center;
+		gap: 15px;
+		padding: 20px 10px 15px 10px;
+	}
+	
+
+	header img {
+    	display: block;
+    	margin: 0 auto;
+		width: 50vw;
+	}
+	nav {
+		flex: 1;
+		gap: 10px;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		width: 100vw;
+	}
+	nav a {
+		flex: 1;
+		font-size: 0.80rem;
+		font-weight: bold;
+		text-align: center;
+	}
+	.hero {
+		justify-content: center;
+		align-items: center;
+		margin-top: 0;
+		height: 70vh;
+		padding: 10px;
+		border-radius: 0;
+	}
+	.wrapper-centered {
+		width: 100%;
+		margin: 0;
+	}
+}
